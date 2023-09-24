@@ -1,8 +1,12 @@
 <p align="center">
-    <img width="200" src="![image](https://github.com/G34ts/G34ts/assets/126637263/d7e3f74e-20ca-496d-b4c7-c90620009fb6)" alt="Kiana">
+    <img width="300" src="https://github.com/G34ts/G34ts/assets/126637263/5503383b-11ec-4be6-9c81-f7732196ee6c" alt="Kiana">
 </p>
-
-# Hi, I'm Josua. I am a Cyber Security student from Indonesia. Love to learn new things related to Security. My motto is "1% better every day".
+<p align="center">
+    Hi, I'm Josua. I am a Cyber Security student from Indonesia. Love to learn new things related to Security 😄. My motto is "1% better every day". 
+</p>
+<p align="center">
+    And Also "Happiness exists only as much as we wish for it" 🙏.
+</p>
 <!--
 **G34ts/G34ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
