@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/G34ts/G34ts/assets/126637263/5503383b-11ec-4be6-9c81-f7732196ee6c" alt="Kiana">
+    <img width="200" src="https://github.com/G34ts/G34ts/assets/126637263/5503383b-11ec-4be6-9c81-f7732196ee6c" alt="Kiana">
 </p>
 <pre align="center">
     Hi, I'm Josua. I am a Cyber Security student from Indonesia.
