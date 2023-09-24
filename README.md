@@ -2,7 +2,10 @@
     <img width="300" src="https://github.com/G34ts/G34ts/assets/126637263/5503383b-11ec-4be6-9c81-f7732196ee6c" alt="Kiana">
 </p>
 <p align="center">
-    Hi, I'm Josua. I am a Cyber Security student from Indonesia. Love to learn new things related to Security 😄. My motto is "1% better every day". 
+    Hi, I'm Josua. I am a Cyber Security student from Indonesia.
+</p>
+<p align="center">
+    Love to learn new things related to Security 😄. My motto is "1% better every day". 
 </p>
 <p align="center">
     And Also "Happiness exists only as much as we wish for it" 🙏.
