@@ -1,5 +1,8 @@
-### Hi there 👋
+<p align="center">
+    <img width="200" src="![image](https://github.com/G34ts/G34ts/assets/126637263/d7e3f74e-20ca-496d-b4c7-c90620009fb6)" alt="Kiana">
+</p>
 
+# Hi, I'm Josua. I am a Cyber Security student from Indonesia. Love to learn new things related to Security. My motto is "1% better every day".
 <!--
 **G34ts/G34ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
